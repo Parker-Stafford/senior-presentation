@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <>
     <h1>This is my cool website!</h1>
-    <h1>Today's big winner</h1>
+    <h1>Today's big winner is:</h1>
     <h2>{display}</h2>
     <Link href='/about'>About</Link>
     <div>
